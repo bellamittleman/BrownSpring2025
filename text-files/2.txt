@@ -1,191 +1,186 @@
- 
-https://crsreports.congress.gov  
-January 17, 2018
-Emergency Alerting —False Alarm  in Hawaii
-Background  
-On Saturday, January 13, 2018, at 8:07 a.m., an emergency 
-alert was issued by  Hawaii’s Emergency Management 
-Agency ( HI-EMA) warning residents  and visitors in Hawaii 
-of an i ncoming ballistic missile.  The message was sen t by 
-HI-EMA through the state’s emergency alert system which 
-distributed it to radio and television stations and to 
-thousands of cell phone users in Hawaii. Widespread fear 
-and panic was reported.   
- 
-Within minutes, HI -EMA officials received the alert on 
-their own cell phones and realized the message was sent in 
-error. HI-EMA reported that a team member issued an 
-actual alert instead of a test alert d uring a required test of 
-the system  at a shift change.  HI -EMA then had difficulty 
-issuing a correction/retraction message.   
-When they received the alert, t he Hawaii National Guard 
-reportedly contacted U.S. Pacific Command  (USPACOM) 
-which confirmed there had been no missile launch. 
-Representative  Tulsi Gabbard contacted the Hawaii 
-National Guard, confirmed there was no threat, and released 
-a “FALSE ALARM” me ssage on Twitter at 8:19 a.m .  
- 
-HI-EMA posted a “FALSE ALARM” message on 
-Facebook and Twitter at 8: 20 a.m., but the official 
-correction from HI -EMA through the state’s emergency 
-alerting system was not  released until 8:45 a.m. —38 
-minutes after the initial alert.  
-Residents and elected officials criticized the length of time 
-HI-EMA took to issue the corre ction.  Timeline  
-HI-EMA shared a timeline of events at a press confe rence 
-held on January 13, 2018:   
-8:07 a.m.—The initial alert was sent . 
-8:10—HI-EMA o fficials received the alert on their own cell 
-phones  and started the cancellation process . 
-8:13—Hawaii’s State Warning Point  (the state’s central 
-communication center)  initiated the process  to stop 
-transmitting the message . 
-8:20—HI-EMA posted the cancellation message 
-to Facebook and Twitter.  
-8:24—Governor Ige retweet ed the cancellation message .  
-8:30—Governor  Ige posted the cancellation on Facebook . 
-8:45—HI-EMA issued a second alert over the emergency 
-alert system, announcing the false alarm.   
-The Nation’s Alerting System  
-In 2006, President George W. Bush issued Executive Order 
-(E.O.) 13407 establishing a pol icy for national alerts and 
-warnings.  The E.O.  provide s the President with a means to 
-communicate with citizens during emergencies, and 
-recognizes the role of state, local, tribal , and territorial 
-entities in  emergency response.   
-The E.O. requires the Dep artment of Homeland Security 
-(DHS) to lead the effort, in coordination with federal, state, 
-local, tribal, territorial , and private sector partners  – to 
-integrate and modernize the n ation’s p ublic alert and 
-warning systems.  These systems include:  
- Emergency  Alert System (EAS) ; 
- National Warning System (NAWAS) ; 
- Wireless Emergency Alert s (WEA) ; and  
- NOAA Weather Radio All Hazards . 
-The network is designed to integrate the nation’s warning 
-systems into one system , called the Integrated Public Al ert 
-and Warning System (IPAWS).  IPAWS is managed and 
-funded by the Federal Emergency Management Agency 
-(FEMA), a component of DHS.  IPAWS  allows alerts to be 
-originated by federal, state, local, tribal, and territorial 
-officials , and then sent through the IPAWS system w hich 
-disseminates the message to the  public using multiple 
-alerting systems  (e.g., EAS sends the alert to television and 
-radio, WEA sends the alert to cell phones).  
-Emergency Alerting —False Alarm in Hawaii  
-https://crsreports.congress.gov  The benefit of IPAWS is that it allows authorized state and 
-local officials to send one messag e to many channels at the 
-same time, reducing the time needed to send messages, 
-reducing the possibility  of errors in message content and 
-delivery, and ensuring timely delivery to citizens who may 
-rely on different devices to receive emergency alerts.   
-As shown in this  incident, officials may leverage multiple 
-means of communication (e.g., social media) to send 
-messages to citizens . This is not part of the national alerting 
-system. The resulting  benefits are that these  messages are 
-fast and easy to send; t he risks are that they may not be 
-accurate or coordinated with emergency management staff.  
-FCC Role  
-The Federal Communications Commission (F CC) plays an 
-impo rtant role in emergency alerts.  In conjunction with 
-FEMA and the National Oceanic and Atmospheric 
-Administration’s (NOAA) National Weather Service 
-(NWS) , the FCC  implements the national Emergency Alert 
-System (EAS) . The EAS is a national public warning 
-system that requires broadcasters (e. g., television, cable, 
-satellite)  to provide c ommunications capabilities to (1 ) the 
-President to address the American public duri ng a national 
-emergency, and (2 ) state and local governments to provide 
-important emergency information to specific areas.  
-The FCC’s role includes prescribing rules that establish 
-technical standards for the EAS, procedures for 
-broadcasters to follow, and testing protocols.  
-Further, the FCC is responsible for implementing the 
-provisions in the Warning, Alert , and Response Networ k 
-(WARN) Act (P.L. 109 -347), which allowed commercial 
-mobile service (CMS) providers to transmit the alerts to cell 
-phones, if they chose.  In 2016, the FCC adopted rules t o 
-improve Wireless Emergency Alerts (WEA) , including 
-making  alert messages longer ( more  characters), supporting 
-URL links to provide additional information to citizens, and 
-supporting Spanish -language alerts.    
-Alerting Authorities  
-A federal, state, terri torial, tribal, or local agency that has 
-been granted authority by its government to alert the public 
-in emergency sit uations can sign up for IPAWS. That 
-agency is known as an “Alerting Authority.”   
-IPAWS is accessed through special software that must mee t 
-IPAWS system requirements. Alerting A uthorities can 
-select software from a list of private sector developers who 
-have successfully tested that software in an IPAWS Open 
-Platform for Emergency Network (IPAWS -OPEN) test 
-environment or they can select their  own software that must 
-then be tested in the IPAWS -OPEN test environment.   
-While access to IPAWS is free, and there is no cost to 
-sending messages, Alerting Authorities must purchase the 
-IPAWS -compatible software to access the system.  Incident in Hawaii —After Alert Was 
-Sent  
-Immediately a fter the alert was sent, H I-EMA officials 
-spent time researc hing how to retract the message . HI-EMA 
-officials asked FEMA for clarification about whether they 
-could use IPAWS to rescind an alert .  FEMA stated that HI-
-EMA  did not need approval to retract the alert, that it had 
-authority to cancel or retract any time.  
-In a press conference several hours later, HI-EMA 
-confirmed that the release of the “FALSE ALARM”  was 
-delayed while they consulted FEMA on the retraction 
-policy and crafted the cancellation message.   HI-EMA also 
-confirmed that their alerting software allows for single -
-activation and verification of alerts.  HI -EMA has since 
-changed that protocol to require dual verification.  
-Some congressional policymakers  have called for hearings 
-on the incident, citing a need to review  federal -state-local 
-communications and response protocols during national 
-security incidents, and  request ing preparedness assistance. 
-The state legislature is also conducting hearings .  
-Issues  for Congress  
-Congressional hearings on the incident are planned . Issues 
-for consideration may include:   
- How a re states prepared for disasters?  Congress may 
-hold hearings on the i ncident to learn about the issues 
-Hawaii  faced  (e.g., communications, trans portation, 
-public health and safety) ; what FEMA has done and is 
-doing to help states prepare for disaster ; how well states 
-feel they are  prepared for disasters; and what FEMA can 
-do to strengthen preparedness in all states.  
- Are improvements t o the national alert  system needed?  
-Congress may wish  to request that FEMA/IPAWS 
-review the software endorsed for use with IPAWS to 
-ensure any features that could contribute to false alerts 
-are corrected; review training modules to ensure 
-cancellation procedure s are included; provide additional 
-training to states on cancellation protocols; and share 
-lessons learned from Hawaii with other IPAWS users.  
- How may policymakers  improve alert  systems ?  The 
-system successfully delivered the alert, but provided 
-limited i nformation about what to do in response.  There 
-may be a need for the FCC, FEMA/IPAWS, and state 
-emergency managers to coordinate to improve alerts and 
-the delivery of f ollow -on in structions. T he FCC is 
-investigating the incident in Hawaii. Congress may wish 
-to ask the FCC to share its findings, to determine how 
-Congress may assist in improving alerts.  
- How may policymakers improve coordination during 
-response?  Congress may review the findings from any 
-after-action reports or investigations of this incident  to 
-address any issues with communications, coordination , 
-and response among feder al, state, and local officials .   
-Jill C. Gallagher , Analyst in Telecommunications Policy    
-IF10816Emergency Alerting —False Alarm in Hawaii  
-https://crsreports.congress.gov  | IF10816  · VERSION 3 · NEW   
- 
-Disclaimer  
-This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff to 
-congressional committees and Members of Congress. It operates solely at the behest of and under the direction of Congress. 
-Information in a CRS Report should n ot be relied upon for purposes other than public understanding of information that has 
-been provided by CRS to Members of Congress in connection with CRS’s institutional role. CRS Reports, as a work of the 
-United States Government, are not subject to copyr ight protection in the United States. Any CRS Report may be 
-reproduced and distributed in its entirety without permission from CRS. However, as a CRS Report may include 
-copyrighted images or material from a third party, you may need to obtain the permissio n of the copyright holder if you 
-wish to copy or otherwise use copyrighted material.  
- 
+January 27, 2025 114 CommentsA Tumultuous W eek for Federal
+Cybersecurity Efforts
+Image: Shutterstock. Greg Meland.
+  3/5/25, 10:28 AM A Tumultuous Week for Federal Cybersecurity Efforts – Krebs on Security
+https://krebsonsecurity.com/2025/01/a-tumultuous-week-for-federal-cybersecurity-efforts/ 1/12President T rump  last week issued a ﬂurry of executive orders that upended a number of
+government initiatives focused on improving the nation’ s cybersecurity posture. The president
+ﬁred all advisors from the Department of Homeland Security’ s Cyber Safety Review Board, called
+for the creation of a strategic cryptocurrency reserve, and voided a Biden administration action
+that sought to reduce the risks that artiﬁcial intelligence poses to consumers, workers and national
+security .
+On his ﬁrst full day back in the White House, Trump dismissed all 15 advisory committee
+members of the Cyber Safety Review Board  (CSRB), a nonpartisan government entity
+established in February 2022 with a mandate to investigate the causes of major cybersecurity
+events. The CSRB has so far produced three detailed reports, including an analysis of the
+Log4Shell vulnerability  crisis, attacks from the cybercrime group LAPSUS$ , and the 2023
+Microsoft Exchange Online breach .
+The CSRB was in the midst of an inquiry into cyber intrusions uncovered recently across a broad
+spectrum of U.S. telecommunications providers at the hands of Chinese state-sponsored hackers.
+One of the CSRB’ s most recognizable names is Chris Krebs (no relation), the former director of
+the Cybersecurity and Infrastructure Security Agency  (CISA). Krebs was ﬁred by President
+Trump in November 2020 for declaring the presidential contest was the most secure in American
+history , and for refuting Trump’ s false claims of election fraud.
+South Dakota Governor Kristi Noem , conﬁrmed by the U.S. Senate last week as the new director
+of the DHS, criticized CISA  at her conﬁrmation hearing, TheRecord  reports .
+Noem told lawmakers CISA  needs to be “much more ef fective, smaller , more nimble, to really
+fulﬁll their mission,” which she said should be focused on hardening federal IT  systems and
+hunting for digital intruders. Noem said the agency’ s work on ﬁghting misinformation shows it has
+“gotten far of f mission” and involved “using their resources in ways that was never intended.”
+“The misinformation and disinformation that they have stuck their toe into and meddled with,
+should be refocused back onto what their job is,” she said.
+Moses Frost , a cybersecurity instructor with the SANS Institute, compared the sacking of the
+CSRB members to ﬁring all of the experts at the National T ransportation Safety Board  (NTSB)
+while they’re in the middle of an investigation into a string of airline disasters.
+“I don’t recall seeing an ‘NTSB Board’  being ﬁred during the middle of a plane crash
+investigation,” Frost said in a recent SANS newsletter . “I can say that the attackers in the phone
+companies will not stop because the review board has gone away . We do need to ﬁgure out how
+these attacks occurred, and CISA  did appear to be doing some good for the vast majority of the
+federal systems.”
+Speaking of transportation, The Record  notes that Transportation Security Administration chief
+David Pekoske  was ﬁred  despite overseeing critical cybersecurity improvements across pipeline,
+rail and aviation sectors. Pekoske was appointed by Trump in 2017 and had his 5-year tenure
+renewed in 2022 by former President Joe Biden.3/5/25, 10:28 AM A Tumultuous Week for Federal Cybersecurity Efforts – Krebs on Security
+https://krebsonsecurity.com/2025/01/a-tumultuous-week-for-federal-cybersecurity-efforts/ 2/12AI & CR YPTOCURRENCY
+Shortly after being sworn in for a second time, Trump voided a Biden executive order that focused
+on supporting research and development in artiﬁcial intelligence. The previous administration’ s
+order on AI was crafted with an eye toward managing the safety and security risks introduced by
+the technology . But a statement  released by the White House said Biden’ s approach to AI had
+hindered development, and that the United States would support AI systems that are “free from
+ideological bias or engineered social agendas,” to maintain leadership.
+The Trump administration issued its own executive order on AI, which calls for an “AI Action Plan”
+to be led by the assistant to the president for science and technology , the White House “AI &
+crypto czar ,” and the national security advisor . It also directs the White House to revise and
+reissue policies to federal agencies on the government’ s acquisition and governance of AI “to
+ensure that harmful barriers to America’ s AI leadership are eliminated.”
+Trump’ s AI & crypto czar is David Sacks , an entrepreneur and Silicon V alley venture capitalist
+who argues that the Biden administration’ s approach to AI and cryptocurrency has driven
+innovation overseas. Sacks recently asserted that non-fungible cryptocurrency tokens and
+memecoins are neither securities nor commodities, but rather should be treated as “collectibles”
+like baseball cards and stamps.
+There is already a legal deﬁnition of collectibles under the U.S. tax code that applies to things like
+art or antiques, which can be subject to high capital gains taxes. But Joe Hall , a capital markets
+attorney and partner at Davis Polk, told Fortune  there are  no market regulations that apply to
+collectibles under U.S. securities law . Hall said Sacks’  comments “suggest a viewpoint that it
+would not be appropriate to regulate these things the way we regulate securities.”
+The new administration’ s position makes sense considering that the Trump family is deeply and
+personally invested in a number of recent memecoin ventures that have attracted billions from
+investors. President Trump and First Lady Melania Trump each launched their own vanity
+memecoins this month, dubbed $TRUMP  and $MELANIA .
+The W all Street Journal  reported Thursday  the market capitalization of $TRUMP  stood at about
+$7 billion, down from a peak of near $15 billion, while $MELANIA  is hovering somewhere in the
+$460 million mark. Just two months before the 2024 election, Trump’ s three sons debuted a
+cryptocurrency token called World Liberty Financial .
+Despite maintaining a considerable personal stake in how cryptocurrency is regulated, Trump
+issued an executive order on January 23  calling for a working group to be chaired by Sacks that
+would develop “a federal regulatory framework governing digital assets, including stablecoins,”
+and evaluate the creation of a “strategic national digital assets stockpile.”
+Translation: Using taxpayer dollars to prop up the speculative, volatile, and highly risky
+cryptocurrency industry , which has been marked by endless scams, rug-pulls, 8-ﬁgure cyber
+heists, rampant fraud, and unrestrained innovations in money laundering.3/5/25, 10:28 AM A Tumultuous Week for Federal Cybersecurity Efforts – Krebs on Security
+https://krebsonsecurity.com/2025/01/a-tumultuous-week-for-federal-cybersecurity-efforts/ 3/12WEAPONIZA TION & DISINFORMA TION
+Prior to the election, President Trump frequently vowed to use a second term to exact retribution
+against his perceived enemies. Part of that promise materialized in an executive order Trump
+issued last week titled “ Ending the W eaponization of the Federal Government ,” which decried “an
+unprecedented, third-world weaponization of prosecutorial power to upend the democratic
+process,” in the prosecution of more than 1,500 people who invaded the U.S. Capitol on Jan. 6,
+2021.
+On Jan. 21, Trump commuted the sentences  of several leaders of the Proud Boys and Oath
+Keepers who were convicted of seditious conspiracy . He also issued “a full, complete and
+unconditional pardon to all other individuals convicted of of fenses related to events that occurred
+at or near the United States Capitol on January 6, 2021,” which include those who assaulted law
+enforcement ofﬁcers.
+The New York Times reports  “the language of the document suggests — but does not explicitly
+state — that the Trump administration review will examine the actions of local district attorneys or
+state ofﬁcials, such as the district attorneys in Manhattan or Fulton County , Ga., or the New York
+attorney general, all of whom ﬁled cases against President Trump.”
+Another Trump order called “ Restoring Freedom of Speech and Ending Federal Censorship ”
+asserts:
+“Over the last 4 years, the previous administration trampled free speech rights by censoring
+Americans’  speech on online platforms, often by exerting substantial coercive pressure on third
+parties, such as social media companies, to moderate, deplatform, or otherwise suppress speech
+that the Federal Government did not approve,” the Trump administration alleged. “Under the guise
+of combatting ‘misinformation,’  ‘disinformation,’  and ‘malinformation,’  the Federal Government
+infringed on the constitutionally protected speech rights of American citizens across the United
+States in a manner that advanced the Government’ s preferred narrative about signiﬁcant matters
+of public debate.”
+Both of these executive orders have potential implications  for security , privacy and civil liberties
+activists who have sought to track conspiracy theories and raise awareness about disinformation
+efforts on social media coming from U.S. adversaries.
+In the wake of the 2020 election, Republicans created the House Judiciary Committee’ s Select
+Subcommittee on the W eaponization of the Federal Government . Led by GOP  Rep. Jim
+Jordan  of Ohio, the committee’ s stated purpose was to investigate alleged collusion between the
+Biden administration and tech companies to unconstitutionally shut down political speech.
+The GOP  committee focused much of its ire at members of the short-lived Disinformation
+Governance Board , an advisory board to DHS created in 2022 (the “combating misinformation,
+disinformation, and malinformation” quote from Trump’ s executive order is a reference to the
+board’ s stated mission). Conservative groups seized on social media posts made by the director3/5/25, 10:28 AM A Tumultuous Week for Federal Cybersecurity Efforts – Krebs on Security
+https://krebsonsecurity.com/2025/01/a-tumultuous-week-for-federal-cybersecurity-efforts/ 4/12of the board, who resigned  after facing death threats. The board was dissolved by DHS soon
+after.
+In his ﬁrst administration, President Trump created a special prosecutor to probe the origins of the
+FBI’s investigation into possible collusion between the Trump campaign and Russian operatives
+seeking to inﬂuence the 2016 election. Part of that inquiry examined evidence gathered by some
+of the world’ s most renowned cybersecurity experts who identiﬁed frequent and unexplained
+communications  between an email server used by the Trump Organization  and  Alfa Bank , one
+of Russia’ s largest ﬁnancial institutions.
+Trump’ s Special Prosecutor John Durham  later subpoenaed and/or deposed dozens of security
+experts who’d collected, viewed or merely commented on the data. Similar harassment and
+deposition demands would come from lawyers for Alfa Bank. Durham ultimately indicted Michael
+Sussman , the former federal cybercrime prosecutor who reported the oddity to the FBI. Sussman
+was acquitted in May 2022. Last week, Trump appointed Durham to lead the U.S. attorney’ s ofﬁce
+in Brooklyn, NY .
+Quinta Jurecic  at Lawfare  notes  that while the executive actions are ominous, they are also
+vague, and could conceivably generate either a campaign of retaliation, or nothing at all.
+“The two orders establish that there will be investigations but leave open the questions of what
+kind of investigations, what will be investigated, how long this will take, and what the
+consequences might be,” Jurecic wrote. “It is difﬁcult to draw ﬁrm conclusions as to what to
+expect. Whether this ambiguity is intentional or the result of sloppiness or disagreement within
+Trump’ s team, it has at least one immediate advantage as far as the president is concerned:
+generating fear among the broad universe of potential subjects of those investigations.”
+On Friday , Trump moved to ﬁre at least 17 inspectors general , the government watchdogs who
+conduct audits and investigations of executive branch actions, and who often uncover instances
+of government waste, fraud and abuse. Lawfare’ s Jack Goldsmith  argues that the removals are
+probably legal even though Trump deﬁed a 2022 law that required congressional notice of the
+terminations, which Trump did not give.
+“Trump probably acted lawfully , I think, because the notice requirement is probably
+unconstitutional,” Goldsmith wrote. “The real bite in the 2022 law , however , comes in the
+limitations it places on Trump’ s power  to replace  the terminated IGs—limitations that I believe are
+constitutional. This aspect of the law will make it hard, but not impossible, for Trump to put
+loyalists atop the dozens of vacant IG ofﬁces around the executive branch. The ultimate fate of IG
+independence during Trump 2.0, however , depends less on legal protections than on whether
+Congress, which traditionally protects IGs, stands up for them now . Don’t hold your breath.”
+Among the many Biden administration executive orders revoked by President Trump last week
+was an action from December 2021 establishing the United States Council on T ransnational
+Organized Crime , which is charged with advising the White House on a range of criminal
+activities, including drug and weapons trafﬁcking, migrant smuggling, human trafﬁcking,3/5/25, 10:28 AM A Tumultuous Week for Federal Cybersecurity Efforts – Krebs on Security
+https://krebsonsecurity.com/2025/01/a-tumultuous-week-for-federal-cybersecurity-efforts/ 5/12A LITTLE SUNSHINE THE COMING STORM
+ALFA BANK DAVID SACKS HOUSE JUDICIARY COMMITTEE'S SELECT SUBCOMMITTEE ON THE
+WEAPONIZATION OF THE FEDERAL GOVERNMENT JACK GOLDSMITH JOE HALL JOHN DURHAM
+LAWFARE MELANIA TRUMP MICHAEL SUSSMAN PRESIDENT TRUMP QUINTA JURECIC REP. JIM
+JORDAN UNITED STATES COUNCIL ON TRANSNATIONAL ORGANIZED CRIME WORLD LIBERTY
+FINANCIALcybercrime, intellectual property theft, money laundering, wildlife and timber trafﬁcking, illegal
+ﬁshing, and illegal mining.
+So far , the White House doesn’t appear to have revoked an executive order  that former President
+Biden issued less than a week before President Trump took ofﬁce. On Jan. 16, 2025, Biden
+released a directive that focused on improving the security of federal agencies and contractors,
+and giving the government more power to sanction the hackers who target critical infrastructure.
+This entry was posted on Monday 27th of January 2025 09:50 PM
+114 thoughts on “ A Tumultuous W eek for Federal Cybersecurity Ef forts”
+Thank you for this excellent recap, Brian. I truly appreciate how you’ve pulled together the facts
+and provided links to help us look back over this past week’ s actions.
+agree !Donna
+January 28, 2025
+Lou
+-
+January 29, 2025
+And… he shut all this down, just as he launched his own cryptocurrency , *and* China, suspected
+of the telecom hack, and announced their own, better , AI.
+Sold to the highest bidder?mark
+January 28, 2025
+These comments are all over the place. Can someone clarify for me whether this article is left
+leaning or right leaning? Pro Trump or anti Trump? Is there malicious intent in the presentation of
+the information that I am just not smart enough to see? Thank you in advance.ctar
+January 28, 2025
+AK
+-
+January 28, 20253/5/25, 10:28 AM A Tumultuous Week for Federal Cybersecurity Efforts – Krebs on Security
+https://krebsonsecurity.com/2025/01/a-tumultuous-week-for-federal-cybersecurity-efforts/ 6/12

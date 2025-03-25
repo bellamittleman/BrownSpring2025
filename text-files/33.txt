@@ -45,7 +45,7 @@ research  by Micro and Report [ 5 ] has shown that this assumption  is
 no longer viable due to the development  of an advanced  and targeted  
 1 ©The Author(s)  2024. Published  by Oxford University  Press. This is an Open Access article distributed  under the terms of the Creative Commons  Attribution  License 
 ( https://creativecommons.org/licenses/by/4.0/  ), which permits unrestricted  reuse, distribution,  and reproduction  in any medium, provided the original work is properly 
-cited. Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+cited. Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025
 2 Che Mat et al. 
 form of attack known as advanced  persistent  threat (APT). The APT 
 selects a target regardless  of its defenses  and persists  until it breaches  
@@ -166,7 +166,7 @@ area:
 cent technological  developments  in the area in academia  and the 
 industry.  
 (ii) We detail technologies  and methods  of APT detection,  and pro- 
-vide a critical summary  of prevalent  work in the area. Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+vide a critical summary  of prevalent  work in the area. Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025
 A Systematic  Literature  Review  on Advanced  Persistent  Threat Behaviors  and its Detection  Strategy  3 
 Figure 1. Phases of systematic  literature  review. 
 (iii) We examine  issues in the area, and propose  an improved  method  
@@ -248,7 +248,7 @@ is carefully  crafted,  incorporating  pertinent  keywords  and their alter-
 natives.  
 (i) Searching  the literature  
 The exploration  of academic  research  begins by scrutinizing  arti- 
-cle titles and abstracts.  During this phase, a total of 90 articles were Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+cle titles and abstracts.  During this phase, a total of 90 articles were Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025
 4 Che Mat et al. 
 excluded  due to their focus on attack modeling  rather than attack de- 
 tection and concentration  on single-stage  detection  rather than multi- 
@@ -370,7 +370,7 @@ include high-quality  findings  that linked to the research  issue and to
 prevent  biases in primary  study selection.  The approach  facilitates  
 researchers  to find primary  studies that are of high quality and able 
 to answer the research  questions.  As a result, this study adheres  to 
-the methodology  of Luh et al. [ 24 ]. Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+the methodology  of Luh et al. [ 24 ]. Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025
 A Systematic  Literature  Review  on Advanced  Persistent  Threat Behaviors  and its Detection  Strategy  5 
 Ta b l e 2. The eligibility  criteria.  
 Criterion  Literature  work Industry  work 
@@ -439,7 +439,7 @@ After careful examination,  a total of 25 articles were excluded  as
 some did not focus on techniques  to detect the APT or did not focus 
 on the multi-stage  attack behavior.  The last stage of review resulted  
 in a total of 35 articles that were used for the qualitative  analysis  
-( Fig. 2 ). Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+( Fig. 2 ). Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025
 6 Che Mat et al. 
 While for industry  sources,  there are initially  36 companies  that 
 are related to the study’s goal, as shown in Fig. 3 . Then, 18 of them 
@@ -552,7 +552,7 @@ niques of detection  considered  in the study. In addition,  the authors
 used human actions as the primary  method  for predicting  APT at- 
 tacks before applying  the MLAPT  module.  This approach  poses a 
 high risk of generating  false positives  as human agents are prone to 
-misinterpreting.  Because  APT attacks are dynamic  and highly spe- Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+misinterpreting.  Because  APT attacks are dynamic  and highly spe- Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025
 A Systematic  Literature  Review  on Advanced  Persistent  Threat Behaviors  and its Detection  Strategy  7 
 Figure 4. APT Attack in the Literature.  
 cific to the scenario  at hand, the use of a scenario-specific  attribute,  
@@ -628,7 +628,7 @@ malicious  traces, and regard them as part of an attack if they deviate
 from normalcy.  Abnormal  behavior  does not always correspond  to 
 an attack. Although  techniques  of anomaly  detection  have significant  
 potential  for generating  false positives,  they can also uncover  previ- 
-ously unknown  attacks.  Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+ously unknown  attacks.  Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025
 8 Che Mat et al. 
 The authors  of ref. [ 36 ] proposed  a method  based on anomaly  de- 
 tection that randomly  connects  events from a training  set that are free 
@@ -751,7 +751,7 @@ tributes  of IP addresses.  Once the clusters  have been built, they can
 be applied  to the classification  of new scenarios.  
 The authors  of ref. [ 50 ] focused  on detecting  APTs in a cloud 
 environment  based on their semantics.  They developed  code to de- 
-tect APT attacks based on attack-related  behavior  throughout  the Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+tect APT attacks based on attack-related  behavior  throughout  the Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025
 A Systematic  Literature  Review  on Advanced  Persistent  Threat Behaviors  and its Detection  Strategy  9 
 operation  of APTs on the target system.  Following  this, they created 
 rules for inferring  attacks based on the observed  behavior  . However  , 
@@ -867,7 +867,7 @@ that were unquestionably  involved  in the attack process.  The authors
 identified  suspicious  hosts linked to APT-related  activities  by using 
 social engineering  and network  penetration.  However,  this method  
 cannot determine  the entire path of attack in case of node failure 
-during the attack. Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+during the attack. Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025
 10 Che Mat et al. 
 Figure 5. Adoption  of APT detection  techniques  in Scholar’s  domain.  
 Theme  4: case-based  methods  
@@ -947,7 +947,7 @@ in Fig. 4 . They highlight  the strategies  used to accumulate  traces of
 APTs and develop  tools for their detection.  For ease of interpreta-  
 tion, Figs 5 and 6 show statistical  perspectives  of both academia  and 
 the industry  for identifying  patterns  of techniques  of APT detection  
-proposed  in the 45 studies considered  in this review. Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+proposed  in the 45 studies considered  in this review. Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025
 A Systematic  Literature  Review  on Advanced  Persistent  Threat Behaviors  and its Detection  Strategy  11 
 Figure 6. Adoption  of APT detection  techniques  in the industry  domain.  
 Figures 5 and 6 show four distinct  techniques  that have been used 
@@ -1028,7 +1028,7 @@ APT attacks always consist of multiple  steps.
 Strategy  analysis  
 We now apply strategy-based  analysis  to analyze  the findings  of our 
 SLR. The aim is to obtain a better understanding  of how APTs are 
-carried out to propose  improvement  to techniques  for their detection.  Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+carried out to propose  improvement  to techniques  for their detection.  Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025
 12 Che Mat et al. 
 Past works [ 64–66 ] have shown that APT attacks use a multi-stage  
 approach.  Each attack consists  of at least two discrete  actions per- 
@@ -1150,7 +1150,7 @@ of alerts is critical for understanding  the pattern of the attack. This
 information  can provide  valuable  insights  into the attacker’s  move- 
 ments within the network,  and can enable security  experts to take 
 appropriate  actions to prevent  the attack. The attacker’s  predicted  
-movement  can be visualized  by using an attack graph. Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+movement  can be visualized  by using an attack graph. Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025
 A Systematic  Literature  Review  on Advanced  Persistent  Threat Behaviors  and its Detection  Strategy  13 Ta b l e 4. APT Attack model in the literature  [ 1–4 ]. 
 APT attack model Phase 1 Phase 2 Phase 3 Phase 4 Phase 5 Phase 6 Phase 7 Phase 8 Phase 9 Phase 10 Phase 11 Phase 12 
 Cyber Kill Chain (2011) Reconnaissance  Weaponization  Delivery  Exploitation  Installation  Command  
@@ -1207,7 +1207,7 @@ attack Final infection  Observe
 network  Gain privileges  Spy data/ 
 sabotage  
 of system Continuous  
-observation  Cover track Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+observation  Cover track Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025
 14 Che Mat et al. Ta b l e 5. APT attack with respective  cyber kill chain attack stages and MITRE ATT&CK  tactic, technique,  and procedures.  
 No. APT attack Multi-stage  attack 
 Reconnaissance  Weaponization  Delivery  Exploitation  Installation  Command  
@@ -1238,7 +1238,7 @@ exfiltration
 15. Energetic  Bear √ √ √ √ √ √ √ √ √ 
 16. Lotus Blossom  √ √ √ √ √ √ √ √ √ 
 17. Desert Falcon √ √ √ √ √ √ √ 
-18. Snake √ √ √ √ √ √ √ √ √ √ Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+18. Snake √ √ √ √ √ √ √ √ √ √ Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025
 A Systematic  Literature  Review  on Advanced  Persistent  Threat Behaviors  and its Detection  Strategy  15 
 To be able to detect APT attacks early on, we incorporate  their 
 attributes  into prevalent  techniques  for their detection.  They include 
@@ -1358,7 +1358,7 @@ April 2022, focusing  on the behavior  of APTs during targeted,  multi-
 stage, and covert attacks.  The SLR encompasses  a broad range of 
 resources  relevant  to both the business  and academic  domains,  pro- 
 viding a comprehensive  overview  of the current state of research  
-in the field. The SLR process  involved  formulating  research  ques- Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+in the field. The SLR process  involved  formulating  research  ques- Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025
 16 Che Mat et al. 
 Figure 7. APT detection  technique.  
 tions, employing  a keyword  search approach,  and utilizing  a recur- 
@@ -1439,7 +1439,7 @@ Conference  on Data Science in Cyberspace  (DSC) . 2020, 67–70.
 10.1109/dsc50466.2020.00018.
 12.Grooby S, Dargahi T, Dehghantanha  A. Protecting  IoT and ICS plat- 
 forms against advanced  persistent  threat actors: analysis of APT1, silent 
-chollima  and molerats.  In: A Dehghantanha,  KK Choo (eds.), Hand- Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+chollima  and molerats.  In: A Dehghantanha,  KK Choo (eds.), Hand- Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025
 A Systematic  Literature  Review  on Advanced  Persistent  Threat Behaviors  and its Detection  Strategy  17 
 book of Big Data and IoT Security . Cham: Springer,  2019, 225–55. 
 10.1007/978-3-030-10543-3_10.
@@ -1575,7 +1575,7 @@ ment of Statistics,  (25 January 2023, date last accessed).
 55.Lv Y, Xiang S, Geng J. et al. An alert correlation  algorithm  based on the 
 sequence  pattern mining. 2015 IEEE Advanced  Information  Technology,  
 Electronic  and Automation  Control Conference  (IAEAC)  . 2016, 1146–
-51. 10.1109/IAEA  C.2015.7428739.  Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+51. 10.1109/IAEA  C.2015.7428739.  Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025
 18 Che Mat et al. 
 56.Yan G, Li Q, Guo D. et al. Discovering  suspicious  APT behaviors  by 
 analyzing  DNS activities.  Sensors (Switzerland)  2020; 20 :1–17.
@@ -1615,4 +1615,4 @@ search , 2010. 10.1145/1852666.1852722.
 67.Al-Shaer  E. et al. Statistical  learning of APT TTP chains from MITRE 
 ATTCK.  Mlc, 2017, 103–15.
 ©The Author(s)  2024. Published  by Oxford University  Press. This is an Open Access article distributed  under the terms of the Creative Commons  Attribution  License 
-( https://creativecommons.org/licenses/by/4.0/  ), which permits unrestricted  reuse, distribution,  and reproduction  in any medium, provided the original work is properly cited. Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by Sciences Library user on 05 March 2025
+( https://creativecommons.org/licenses/by/4.0/  ), which permits unrestricted  reuse, distribution,  and reproduction  in any medium, provided the original work is properly cited. Downloaded from https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935 by guest on 05 March 2025

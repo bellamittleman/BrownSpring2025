@@ -53,7 +53,7 @@ ernment  networks  (We do not include state-controlled  IT networks
 1 ©The Author(s)  2025. Published  by Oxford University  Press. This is an Open Access article distributed  under the terms of the Creative Commons  
 Attribution-NonCommercial-NoDerivs  licence ( http://creativecommons.org/licenses/by-  nc- nd/4.0/ ), which permits non-commercial  reproduction  and distribution  of the 
 work, in any medium, provided the original work is not altered or transformed  in any way, and that the work properly cited. For commercial  re-use, please contact 
-journals.permissions@oup.com  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+journals.permissions@oup.com  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 2 Harry et al. 
 in our analysis  as many of the government  support  services  for cit- 
 izens are delivered  by independent  county governments,  operate  in 
@@ -175,7 +175,7 @@ County  school system,  for instance,  still prevents  retired teachers
 from changing  their medical  insurance  payments,  even after those 
 teachers  change their policies.  The district owes thousands  of dollars 
 to some retirees who are paying for benefits  they no longer receive,  
-while others are underpaying  and will face high insurance  bills soon Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+while others are underpaying  and will face high insurance  bills soon Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 Integrated  cyber attack surface  across US counties  3 
 [ 11 ]. The spread of ‘Internt  of Things’  (IoT) devices across county 
 governments  has further increased  the potential  attack surface,  mak- 
@@ -297,7 +297,7 @@ Our goal is to compile  an “integrated  cyber attack surface”across  all
 US county governments  and understand  consequences  at the national  
 level. The validity  of this approach  was recently  demonstrated  when 
 researchers  from Censys found hundreds  of publicly  facing devices in 
-more than 50 Federal  Civilian  Executive  Branch organizations  that Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+more than 50 Federal  Civilian  Executive  Branch organizations  that Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 4 Harry et al. 
 were exposed  to exploitations  across a variety of services  [ 27 ]. We 
 seek to apply a broader  approach,  across all regions of the USA. 
@@ -420,7 +420,7 @@ lowing to collect only “non-verified”CVE  data that is associated  with
 a specific version of the exposed  county software  platform  (“Non-  
 verified”CVEs  is a terminology  used by Shodan,  indicating  that the 
 output provided  relates to known CVEs associated  with the CPE that 
-was found. Those CVEs could be patched,  but still appear as CVEs in Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+was found. Those CVEs could be patched,  but still appear as CVEs in Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 Integrated  cyber attack surface  across US counties  5 
 Ta b l e 1. Data points collected  on each county domain.  
 Domain  X Query 
@@ -489,7 +489,7 @@ counties.  We could not find domains/IP  addresses  for the following
 NM, De Baca; OK, Cherokee;  OK, Ellis; OK, Harmon;  OK, Harper;  
 OK, Haskell;  OK, Jefferson;  OK, Johnston;  OK, Major; OK, Mar- 
 shall; OK, McIntosh;  OK, Murray;  OK, Nowata;  OK, Okfuskee;  OK, 
-Pushmataha;  OK, Roger Mills; OK, Wagoner;  OK, Washita;  OK, Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+Pushmataha;  OK, Roger Mills; OK, Wagoner;  OK, Washita;  OK, Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 6 Harry et al. 
 Figure 2. Overall number of IP addresses  per state across all states. 
 Figure 3. Median number of IP addresses  per county across all states. 
@@ -534,7 +534,7 @@ for instance,  has 58 counties,  each with its own set of IP infrastruc-
 ture discovered  through  our methodology.  Considering  the IP ad- 
 dresses that belong to each county in California,  the median  number  
 of county IP addresses  for California  is 12. Most states in Fig. 3 have 
-a median  number  of IP addresses  per county that ranges between  1 Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+a median  number  of IP addresses  per county that ranges between  1 Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 Integrated  cyber attack surface  across US counties  7 
 Figure 4. Sum of IP addresses  per state across FEMA regions at a logarithmic  scale. 
 and 6. Then we see states with a median  count of IP addresses  be- 
@@ -611,11 +611,11 @@ ing region for unique open ports, with more than 13 000 open ports
 that are broadly  distributed  across all eight states. Mississippi  has 
 the fewest with under 1000. Alabama,  Kentucky,  Florida,  North, 
 and South Carolina  all have under 2000 unique open ports, while 
-Tennessee  and Georgia  both have over 2300 unique open ports. We Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+Tennessee  and Georgia  both have over 2300 unique open ports. We Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 8 Harry et al. 
 Figure 5. Overall number of open ports per state across all states. 
 Figure 6. Median number of open ports per county across all states. 
-Figure 7. Sum of open ports per state across FEMA regions. Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+Figure 7. Sum of open ports per state across FEMA regions. Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 Integrated  cyber attack surface  across US counties  9 
 Figure 8. Median IP addresses  count versus median open ports per county at the state level. 
 Figure 9. Median IP addresses  count versus median open ports per county at FEMA region level. 
@@ -645,7 +645,7 @@ Next, we investigated  the type of services  that could be exploited
 to develop  a service-based  measurement  of attack surface diversity.  
 Thus far, we showed  aggregated  data on the size of the attack sur- 
 face, detailing  publicly  accessible  IP addresses  and open ports in 
-each county, aggregated  at the state and FEMA region levels. We Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+each county, aggregated  at the state and FEMA region levels. We Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 10 Harry et al. 
 Figure 10. Heatmap  of county government  vulnerability  based on exposure  to one or more of four service-based  attack scenarios.  
 demonstrated  a variation  in the sizes of attack surfaces,  as well as a 
@@ -714,7 +714,7 @@ optimal  measures,  it remains  outside the bounds  of this paper.
 Our visualization  in Fig. 10 aggregates  the number  of attack vec- 
 tors that might be available  in the scanned  counties.  Each county is 
 scored between  0 and 4 according  to the following  method:  when 
-one of the four following  attack scenarios  was found to be available  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+one of the four following  attack scenarios  was found to be available  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 Integrated  cyber attack surface  across US counties  11 
 in that county, the county gets an additional  point. Counties  that get 
 the score of 4 are potentially  vulnerable  to all of the four following  
@@ -838,7 +838,7 @@ that service.  Figure 13 shows potential  vulnerability  to DNS miscon-
 figuration  attacks.  The states of California  and Virginia  were found 
 to be at potentially  high risk for this type of attack, with more than 
 75% of their counties  exposing  services  that could be exploited  for 
-DNS misconfiguration.  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+DNS misconfiguration.  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 12 Harry et al. 
 Figure 11. Alaska and Hawaii colored based on their exposure  to 0–4 types of attacks. 
 Figure 12. Sum of IP addresses  versus amount of services of concern exposed  at the state level. 
@@ -870,7 +870,7 @@ of all US county governments.  Beyond  the limitation  of missing  coun-
 ties without  domain  names (34) or counties  for which we could not 
 retrieve  IP addresses  for (15), we have no CVE data for domains  with 
 IPs but without  open ports (12), domains  with IP addresses  and open 
-ports but for which we get no CPEs (393), domains  that only include Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+ports but for which we get no CPEs (393), domains  that only include Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 Integrated  cyber attack surface  across US counties  13 
 Figur e 13. P ercentage  of counties  within US states that are potentially  susceptible  to DNS misconfiguration  attacks. 
 Figur e 14. P ercentage  of counties  within US states that are potentially  susceptible  to illicit data access. 
@@ -888,7 +888,7 @@ queries,  but only for versioned  CPE, dropping  our covered  counties
 for this section from 3095 out of 3143 (98%), to 1003 out of 3143 
 (32%). The source of this limitation  is missing  data from Shodan,  ei- 
 ther on what CVEs are associated  with particular  CPE, or the supply 
-of only nonversioned  CPEs for the majority  of county domains.  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+of only nonversioned  CPEs for the majority  of county domains.  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 14 Harry et al. 
 Figur e 15. P ercentage  of counties  within US states that are potentially  susceptible  to insecure  authorization.  
 Figur e 16. P ercentage  of counties  within US states that are potentially  susceptible  to insecure  file-sharing.  
@@ -906,7 +906,7 @@ Wisconsin  (62%) having many counties  covered.  At the same time,
 has none, Atlanta  and Arizona  have less than 10%, and California,  
 Colorado,  Connecticut,  Washington  DC, Delaware,  and Florida have 
 less than 20% of their counties  covered  with CVE data. Sixteen states 
-have between  20% and 33% of their counties  with CVE data, and Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+have between  20% and 33% of their counties  with CVE data, and Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 Integrated  cyber attack surface  across US counties  15 
 Figur e 1 7. Bo x plot for the distribution  of co vered counties  with CVE data across states. 
 Figur e 18. P ercentage  of counties  covered with CVE data across states. 
@@ -947,7 +947,7 @@ geographically  large on the map and colored  just by a single dot to
 mask exact location.  
 We can see high density of CVEs along the Southern  parts of the 
 Mississippi  river all the way up to Iowa, in parts of FEMA regions #4, 
-#6, and #7, especially  in Louisiana,  Mississippi,  Tennessee,  Atlanta,  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+#6, and #7, especially  in Louisiana,  Mississippi,  Tennessee,  Atlanta,  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 16 Harry et al. 
 Figure 19. CVE density (CVEs per IP address)  across US counties.  
 and Montana.  Following  our finding about the lack of correlation  
@@ -1016,7 +1016,7 @@ Every CVE has an associated  CVSS score from 0 to 10 based
 on its exploitability  and impact on the target system.  Factors  such 
 as the attack vector (remote  versus local), attack complexity,  privi- 
 leges required,  user interaction,  and the potential  of the vulnerability  
-to affect the confidentiality  , integrity  , and availability  of the target Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+to affect the confidentiality  , integrity  , and availability  of the target Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 Integrated  cyber attack surface  across US counties  17 
 Figure 20. Average  exploitability  probability  per CVE across US counties.  
 Figure 21. Risk quantification  for each county across the US. 
@@ -1036,7 +1036,7 @@ average  risk score across counties  is 0.586 and the median  score is
 0.0817.  
 The counties  that pose the greatest  risk are spread across the na- 
 tion, with correlation  coefficient  between  risk score and county pop- 
-ulation is −0.06 that is statistically  significant  at the 94% confidence  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+ulation is −0.06 that is statistically  significant  at the 94% confidence  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 18 Harry et al. 
 level ( P -value is .059). Again, as opposed  to service-based  attack sur- 
 face measurement,  risky counties  are not correlated  with population  
@@ -1156,7 +1156,7 @@ We contrasted  these findings  with a CVE-based  measurement  of
 the attack surface.  We show a contrasting  trend for this measure-  
 ment, as the total number  of CVEs is not correlated  with levels of 
 population,  and the density of CVEs per IP address  in counties  is not 
-correlated  with the overall count of IP addresses  available  in counties.  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+correlated  with the overall count of IP addresses  available  in counties.  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 Integrated  cyber attack surface  across US counties  19 
 CVE density varies across the nation and is very high across coun- 
 ties in certain states, with three counties  from the same state holding  
@@ -1278,7 +1278,7 @@ faces across geographies,  is useful for policymakers  who struggle
 to determine  where to invest scarce resources.  Even though our at- 
 tack surface measurements  suggest a high bound for county vulner- 
 abilities,  they put a spotlight  on regions that require careful atten- 
-tion and investment  of resources  to close the gaps. Locally  man- Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+tion and investment  of resources  to close the gaps. Locally  man- Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 20 Harry et al. 
 aged infrastructures,  whose vulnerabilities  are not wholly under- 
 stood can lead to misperceptions  of risk and limit the effectiveness  
@@ -1396,7 +1396,7 @@ cluding  the ability to combine  exposed  services  with compromised
 credentials  found on the dark web to expand  our ability to make 
 more nuanced  estimates  of risk, tying exposure  with access creden-  
 tials and analyze  the ratio of known valid accounts  paired with open 
-services.  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+services.  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 Integrated  cyber attack surface  across US counties  21 
 Conﬂict  of interest  
 None declared.  
@@ -1420,7 +1420,7 @@ sion [equal], Validation  [equal], Visualization  [equal], Writing – original 
 [equal], Writing –review & editing [equal]),  and Mark McDermott  (Conceptu-  
 alization  [equal], Data curation  [equal], Formal analysis [equal], Investigation  
 [equal], Methodology  [equal], Software  [equal], Validation  [equal], Writing –
-review & editing [equal]).  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+review & editing [equal]).  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 22 Harry et al. 
 Appendix  1: output  sample  from CENSYS  
 >>> from censys.search  import CensysHosts  
@@ -1481,7 +1481,7 @@ Appendix  1: output  sample  from CENSYS
 "transport_protocol":  "TCP", 
 "service_name":  "HTTP",  
 "certificate":  "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",  
-} Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+} Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 Integrated  cyber attack surface  across US counties  23 
 Continued  
 ] 
@@ -1542,7 +1542,7 @@ Continued
 ] 
 } 
 ] 
-] Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+] Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 24 Harry et al. 
 Appendix  2: output  sample  from SHODAN  
 >>> import requests  
@@ -1591,7 +1591,7 @@ Hyphen  conversion  to cpeName:
 https://services.nvd.nist.gov/rest/json/cves/2.0?cpeName  = cpe:2.3:a:getbootstrap:bootstrap:-:  ∗: ∗: ∗: ∗: ∗: ∗: ∗
 { 
 "resultsPerPage":5,  
-"startIndex":0,  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+"startIndex":0,  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 Integrated  cyber attack surface  across US counties  25 
 Continued  
 "totalResults":5,  
@@ -1649,7 +1649,7 @@ Continued
 }, 
 "baseSeverity":"MEDIUM",  
 "exploitabilityScore":8.6,  
-"impactScore":2.9,  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+"impactScore":2.9,  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 26 Harry et al. 
 Continued  
 "acInsufInfo":false,  
@@ -1708,7 +1708,7 @@ Continued
 {"cve":{"id":"CVE-2018-20677",  ... }}, 
 {"cve":{"id":"CVE-2019-8331",  ... }} 
 ] 
-} Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+} Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 Integrated  cyber attack surface  across US counties  27 
 Appendix  4: output  sample  from NIST without  CPE query  
 https://services.nvd.nist.gov/rest/json/cves/2.0?startIndex  = 0&resultsPerPage  = XXXX 
@@ -1815,7 +1815,7 @@ ments . Washington,  DC, 2024.
 36.DFIR. Buzzing on Christmas  Eve: trigona Ransomware  in 3 hours. The 
 DFIR Report . 2024.
 37.Lakshmanan  R. Apache OpenMeetings  web conferencing  tool exposed to 
-critical vulnerabilities.  The Hacker News, 2023.Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+critical vulnerabilities.  The Hacker News, 2023.Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
 28 Harry et al. 
 38.Arghire I. Veeam patches critical vulnerabilities  in enterprise  products.  
 SecurityWeek,  2024.
@@ -1851,4 +1851,4 @@ curity Blog, 2023.
 ©The Author(s)  2025. Published  by Oxford University  Press. This is an Open Access article distributed  under the terms of the Creative Commons  
 Attribution-NonCommercial-NoDerivs  licence ( http://creativecommons.org/licenses/by-  nc- nd/4.0/ ), which permits non-commercial  reproduction  and distribution  of the work, 
 in any medium, provided the original work is not altered or transformed  in any way, and that the work properly cited. For commercial  re-use, please contact 
-journals.permissions@oup.com  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by Sciences Library user on 05 March 2025
+journals.permissions@oup.com  Downloaded from https://academic.oup.com/cybersecurity/article/11/1/tyae032/7959399 by guest on 05 March 2025
