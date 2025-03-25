@@ -56,7 +56,7 @@ security,  the severity  and urgency,  which determines  the planning).  If
 such resilience  is planned  into business  procedures,  this boosts ability 
 to weather  future emergencies  [ 6 ]. 
 1 © The Author(s)  2023. Published  by Oxford University  Press. This is an Open Access article distributed  under the terms of the Creative Commons  Attribution  License 
-( https://creativecommons.org/licenses/by/4.0/  ), which permits unrestricted  reuse, distribution,  and reproduction  in any medium, provided the original work is properly cited. Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by Sciences Library user on 05 March 2025
+( https://creativecommons.org/licenses/by/4.0/  ), which permits unrestricted  reuse, distribution,  and reproduction  in any medium, provided the original work is properly cited. Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by guest on 05 March 2025
 2 Parkin et al. 
 Our approach  lays down the foundations  for a systematic  
 scenario-based  risk exploration  amongst  senior decision-makers  in 
@@ -174,7 +174,7 @@ icy training  schools—are  challenged  to identify  responses  within the
 NATO and EU governance  structures.  Corporate  organizations  are 
 not the target audience,  even though the participants  are challenged  
 with coordinating  across public and private sectors as part of the re- 
-sponse to scenarios.  The exercise  runs over multiple  days organized  Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by Sciences Library user on 05 March 2025
+sponse to scenarios.  The exercise  runs over multiple  days organized  Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by guest on 05 March 2025
 Executi  ve decision-mak  er s: a scenario-based  approach  3 
 by the Atlantic  Council  [ 18 ] and Geneva  Centre for Security  Policy 
 [ 19 ]. 
@@ -290,7 +290,7 @@ Anticipated  risks
 We assess the scenarios  for particular  categories  of business  risk, as 
 per the Cambridge  Taxonomy  of Business  Risks [ 28 ]. These risk cat- 
 egories embody  a complete  range of risks relevant  to businesses,  as 
-follows:  Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by Sciences Library user on 05 March 2025
+follows:  Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by guest on 05 March 2025
 4 Parkin et al. 
 Ta b l e 1: Scenarios  1 and 2, written as a continuous  narrative  around  an organization  referred  to as ‘Company  A’. 
 Scenario  1—‘ransomware’  (Sc-Ransom)  
@@ -375,7 +375,7 @@ to a defined slot with the participants.  This was a rare opportunity
 where we secured  all the relevant  stakeholders  from the organization  
 to come together  and engage in the study in full. 
 Before the workshop  event, the authors  confirmed  that consent  
-forms had been provided  and returned.  Participants  were also asked Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by Sciences Library user on 05 March 2025
+forms had been provided  and returned.  Participants  were also asked Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by guest on 05 March 2025
 Executi  ve decision-mak  er s: a scenario-based  approach  5 
 Ta b l e 2: Scenarios  3 and 4, following  on from Scenarios  1 and 2. 
 Scenario  3—‘power  and connectivity  outage’ (Sc-Power)  
@@ -455,7 +455,7 @@ security  (and were invited on this basis); this did not include anyone
 outside of the executive  function  responsible  for implementing  any 
 decisions  (e.g. IT staff). 
 As a group, the participants  held executive  roles in the organiza-  
-tion, many of these relating  to business  continuity,  compliance,  gover- Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by Sciences Library user on 05 March 2025
+tion, many of these relating  to business  continuity,  compliance,  gover- Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by guest on 05 March 2025
 6 Parkin et al. 
 Ta b l e 3: Scenario  dimensions,  or characterizations  in each scenario.  
 Characterization  S1 / Sc-Ransom  S2 / Sc-Pods S3 / Sc-Power  S4 / Sc-Nation  
@@ -563,7 +563,7 @@ mention  of cybersecurity  awareness,  business  continuity,  compliance,
 and incident  management  (Q4). Broadly,  PInc1 was responsible  for 
 cyber-incident  handling  and PInc2 with incident  response;  PCon6,  
 PCon8,  and PCon9 are involved  in business  continuity;  PGov4,  
-PGov5,  and PGov7 with compliance  and governance  and PGov3 with Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by Sciences Library user on 05 March 2025
+PGov5,  and PGov7 with compliance  and governance  and PGov3 with Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by guest on 05 March 2025
 Executi  ve decision-mak  er s: a scenario-based  approach  7 
 Figure 1: Top perceived  cybersecurity  risk categories,  from the preworkshop  survey (1 highest, 6 lowest). The x-axis indicates  the total number of participants  
 who have included  each category  in their ranking. 
@@ -643,7 +643,7 @@ S4 from impacts  to national  postal services  to potential  nation-level
 cyberattacks.  
 When discussing  Sc-Ransom  after completing  the survey, par- 
 ticipants  noted Company  A’s role in critical infrastructure,  with a 
-nation-wide  customer  base—the  business  and potential  reputational  Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by Sciences Library user on 05 March 2025
+nation-wide  customer  base—the  business  and potential  reputational  Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by guest on 05 March 2025
 8 Parkin et al. 
 Ta b l e 4: Number  of selections  by participants  of each attack category  (C#). 
 Scenario  Scen. category  C1 C2 C3 C4 C5 C6 
@@ -705,7 +705,7 @@ available  (Figs 3 , 4 , 5 , and 6 , for scenarios  S1–S4, respectively).  For
 the first two scenarios,  no participants  selected  more than four risk 
 categories,  reflecting  the comparative  simplicity  of these scenarios.  
 The selections  for Sc-Ransom  (S1) are in line with the theme of 
-the scenario,  with ‘Technology’  and ‘Financial’  risks being selected  Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by Sciences Library user on 05 March 2025
+the scenario,  with ‘Technology’  and ‘Financial’  risks being selected  Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by guest on 05 March 2025
 Executi  ve decision-mak  er s: a scenario-based  approach  9 
 Figure 3: Business  risk category  rankings  by no. of participants,  for scenarios  S1 (1 highest, 6 lowest). The x-axis indicates  the total number of participants  who 
 have included  each category  in their ranking. The legend describes  the ranking position (from first to sixth, 1 to 6, respectively).  Each distinct block for each of 
@@ -740,7 +740,7 @@ governance  risks given possible  loss of confidence  amongst  employ-
 ees (PGov4).  
 Pertinent  to autonomous  pods, a key risk noted by PGov7 was 
 the incident  leading to a reduction  in ‘the confidence  in a new tech- 
-nology’  . This is often an underplayed  area of impact arising out of Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by Sciences Library user on 05 March 2025
+nology’  . This is often an underplayed  area of impact arising out of Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by guest on 05 March 2025
 10 Parkin et al. 
 Figure 5: Business  risk category  rankings  by no. of participants,  for scenarios  S3 (1 highest, 6 lowest). The x-axis indicates  the total number of participants  who 
 have included  each category  in their ranking. The legend describes  the ranking position (from first to sixth, 1 to 6, respectively).  Each distinct block for each of 
@@ -774,7 +774,7 @@ Scenario  4 (Sc-Nation)
 As cyberattacks  become  major incidents,  targeting  critical infrastruc-  
 ture and disrupting  public life in a substantial  way, the risk ownership  
 shifts, as we see in Fig. 2 . PGov5 captures  this clearly when they say 
-that for Sc-Nation  ‘the classification  is not so uncertain’  , but that in Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by Sciences Library user on 05 March 2025
+that for Sc-Nation  ‘the classification  is not so uncertain’  , but that in Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by guest on 05 March 2025
 Executi  ve decision-mak  er s: a scenario-based  approach  11 
 this case ‘the line of responsibility  is not clear yet’ , though ‘the state 
 is now much more heavily inv olv ed in the management  of this situa- 
@@ -892,7 +892,7 @@ ferences  between  scenarios  as they change and escalate  according
 to the dimensions  we have integrated  into each scenario.  In future, 
 the methodology  could be adapted  to prioritize  explanatory  mech- 
 anisms in the workshop  protocol—this  could include providing  our 
-scenario  classifications  to participants  and asking them to reason as Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by Sciences Library user on 05 March 2025
+scenario  classifications  to participants  and asking them to reason as Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by guest on 05 March 2025
 12 Parkin et al. 
 to whether  our classifications  fit with their perceptions,  or why they 
 do not. 
@@ -1008,7 +1008,7 @@ principles  for Boards and Investors.  2017. https:// www.pwc.co.uk/  cyber-
 security/assets/governing-  cyber- security-  risk.pdf (11 August 2023, date 
 last accessed).
 13.Nordberg  D, Booth R. Evaluating  the effectiveness  of corporate  boards. 
-Corp Gov 2019; 19 :372–87.Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by Sciences Library user on 05 March 2025
+Corp Gov 2019; 19 :372–87.Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by guest on 05 March 2025
 Executi  ve decision-mak  er s: a scenario-based  approach  13 
 14.Massie R. Allocating  effort: risk and complexity  in board directors’  en- 
 gagement  with information.  Ph.D. thesis, City University  London,  2015.
@@ -1118,4 +1118,4 @@ you, and why? [free-text]
 6. From the description  of the scenario,  what technological  areas are most 
 complex  to you, and why? [free-text]  
 © The Author(s)  2023. Published  by Oxford University  Press. This is an Open Access article distributed  under the terms of the Creative Commons  Attribution  License 
-( https://creativecommons.org/licenses/by/4.0/  ), which permits unrestricted  reuse, distribution,  and reproduction  in any medium, provided the original work is properly cited. Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by Sciences Library user on 05 March 2025
+( https://creativecommons.org/licenses/by/4.0/  ), which permits unrestricted  reuse, distribution,  and reproduction  in any medium, provided the original work is properly cited. Downloaded from https://academic.oup.com/cybersecurity/article/9/1/tyad018/7246580 by guest on 05 March 2025
