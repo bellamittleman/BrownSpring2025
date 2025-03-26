@@ -8,6 +8,10 @@ import io
 pdf_folder = 'pdf-docs'
 text_folder = 'text-files'
 
+# Clear out text_folder to avoid duplicates
+for file in os.listdir(text_folder):
+    os.remove(os.path.join(text_folder, file))
+
 # Create the text folder if it doesn't exist
 if not os.path.exists(text_folder):
     os.makedirs(text_folder)
