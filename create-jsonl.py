@@ -64,9 +64,10 @@ for text_file in os.listdir(text_folder):
         text_path = os.path.join(text_folder, text_file)
         jsonl_path = os.path.join(jsonl_folder, text_file.replace('.txt', '.jsonl'))
         
-        # Always regenerate the JSONL file
-print(f"Generating: {jsonl_path}")
-
+       # Skip if the JSONL file already exists
+        if os.path.exists(jsonl_path):
+            print(f"Skipping existing file: {jsonl_path}")
+            continue
 
         # Process the file only if it doesn't exist
         with open(text_path, 'r', encoding='utf-8') as file:
