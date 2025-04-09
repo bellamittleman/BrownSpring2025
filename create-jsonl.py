@@ -16,6 +16,7 @@ jsonl_folder = 'jsonl-files'
 if not os.path.exists(jsonl_folder):
     os.makedirs(jsonl_folder)
 
+
 def generate_completions(text):
     """
     Generate completions from the given text using OpenAI API.
@@ -53,6 +54,8 @@ def generate_completions(text):
 
     return completions
 
+print("Files in text-folder:", os.listdir(text_folder))
+
 # Iterate through each file in the text folder
 for text_file in os.listdir(text_folder):
     # Process only text files
@@ -61,7 +64,7 @@ for text_file in os.listdir(text_folder):
         text_path = os.path.join(text_folder, text_file)
         jsonl_path = os.path.join(jsonl_folder, text_file.replace('.txt', '.jsonl'))
         
-        # Skip if the JSONL file already exists
+       # Skip if the JSONL file already exists
         if os.path.exists(jsonl_path):
             print(f"Skipping existing file: {jsonl_path}")
             continue
